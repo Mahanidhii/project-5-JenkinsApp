@@ -26,7 +26,7 @@ Dockerfile: contains commands to be run in docker
 8. Visualize the output in both command prompt and Docker desktop app
 
 ### Docker commands used:
-`docker build -t <folder name> .`
+`docker build -t <folder name> .`, 
 `docker run <folder name>`
 
 ### Output:
