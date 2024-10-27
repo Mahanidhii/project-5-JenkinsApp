@@ -12,7 +12,7 @@
 8. `git push --set-upstream origin master`, sends all the files from git to github.
    
 Docker:
-1. `docker build -t <folder_name>`
+1. `docker build -t <folder_name> .`
 2. `docker run <folder_name`
    
 ### Steps:
