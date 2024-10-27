@@ -10,7 +10,10 @@
 6. `git commit -m "<message>"`, it commits whatever is there in the track
 7. `git remote add origin <GitHub repository link>`, builds connection between git and github
 8. `git push --set-upstream origin master`, sends all the files from git to github.
-
+Docker:
+1. `docker build -t <folder_name>`
+2. `docker run <folder_name`
+   
 ### Steps:
 1. Building the files required: app.py: flask code,
 requirements.txt: contains required libraries,
@@ -22,12 +25,8 @@ Dockerfile: contains commands to be run in docker
 4. Add Execute windows batch command in Build Steps
 5. Build now and visualize console output
 6. Open command prompt with the directory of the folder with the required file
-7. Run the docker commands
+7. Run the docker commands mentioned above
 8. Visualize the output in both command prompt and Docker desktop app
-
-### Docker commands used:
-`docker build -t <folder name> .`, 
-`docker run <folder name>`
 
 ### Output:
 ![image](https://github.com/user-attachments/assets/26f9efc3-38e0-4cf7-ad95-00a8d2e5e3ab)
