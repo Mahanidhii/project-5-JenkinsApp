@@ -26,5 +26,6 @@ test_app.py: code to test app.py file.
 7. Build now & visualize the console output.
 
 ### Output:
-![image](https://github.com/user-attachments/assets/5231a60c-52b0-4f98-af09-aeca7b1184a5)
+![image](https://github.com/user-attachments/assets/e1135b05-877c-413d-ab8b-43c024138436)
+
 
